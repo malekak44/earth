@@ -1,1 +1,1 @@
-# earth
+### Earth Landing Page Using vanilla JavaScript.
